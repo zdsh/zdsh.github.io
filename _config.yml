@@ -20,5 +20,5 @@ gems:
    - jekyll-gist
 
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+#permalink: /blog/:year/:month/:day/:title
 
